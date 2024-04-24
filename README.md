@@ -1,5 +1,6 @@
 <h2>Hi there 👋 </h2>
 My name is Delaney Lehouillier and i am a student in teh Interactive Design and Technology program at Saskatchewan Polytechnic! I am new to the coding world but loving every moment of learning new things! 
+🌐 delaneylehouillier.ca
 
 <h2>🛠️Languages, Tools</h2>
 <ul>
