@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2>Hi there 👋 </h2>
+My name is Delaney Lehouillier and i am a student in teh Interactive Design and Technology program at Saskatchewan Polytechnic! I am new to the coding world but loving every moment of learning new things! 
 
-<!--
-**delaney30/delaney30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🛠️Languages, Tools</h2>
+<ul>
+  <li>🧮 JavaScript, HTML, CSS</li>
+  <li>💻 VSCode, Github, Adobe CC, Figma, Photoshop, Illustrator, Premiere Pro, Audition </li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Hobbies</h2>
+<ul>
+  <li>🏒 Hockey</li>
+  <li>🎵 Music</li>
+  <li>📷 Photography</li>
+  <li>📹 Videography</li>
+  <li>🖥️ Graphic Design</li>
+</ul>
